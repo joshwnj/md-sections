@@ -1,12 +1,12 @@
 {
   "name": "md-sections",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get an array of sections (heading + nodes) from a markdown doc, using remark",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["remark", "markdown"],
   "author": "joshwnj",
   "license": "MIT"
 }
