@@ -6,6 +6,8 @@ Any nodes before the first heading are ignored.
 
 ## Usage
 
+`var sections = mdSections(root)`
+
 **Args:**
 
 - `root`: root `remark` node
